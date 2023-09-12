@@ -3,6 +3,8 @@ A: playwright is an open source automation library developed by Microsoft that a
 This library allows you to write browser based tests in JavaScript, Java, C# or Python. This lightning talk will demostrate how to run tests
 using Javascript.
 
+HOMEPAGE: [https://playwright.dev](https://playwright.dev)
+
 Playwright runs tests against the three most popular browser engines:
 
 1. Chromium
